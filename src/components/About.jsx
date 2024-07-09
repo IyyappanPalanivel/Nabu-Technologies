@@ -10,9 +10,9 @@ import raise from '../assets/milestones/raise.png';
 const About = () => {
 
     const AboutTitle = "Innovating Excellence in IT Solutions";
-    const AboutUsContent = "Welcome to Grey Matrix, where innovation meets excellence in IT solutions. At Grey Matrix, we understand the dynamic landscape of technology and the crucial role it plays in shaping businesses for success. Our team of skilled professionals is dedicated to delivering cutting-edge solutions that drive your business forward. Whether you're a startup looking to establish a digital presence, an enterprise seeking to streamline operations, or an entrepreneur with a game-changing app idea, Grey Matrix is here to bring your vision to life. Our tailor-made solutions are designed to meet your unique requirements, ensuring maximum efficiency and impact.";
+    const AboutUsContent = "Welcome to Nabu Technologies, where innovation meets excellence in IT solutions. At Nabu Technologies, we understand the dynamic landscape of technology and the crucial role it plays in shaping businesses for success. Our team of skilled professionals is dedicated to delivering cutting-edge solutions that drive your business forward. Whether you're a startup looking to establish a digital presence, an enterprise seeking to streamline operations, or an entrepreneur with a game-changing app idea, Nabu Technologies is here to bring your vision to life. Our tailor-made solutions are designed to meet your unique requirements, ensuring maximum efficiency and impact.";
     const Discover = "Milestones that define our"
-    const Journey = "Journey at Grey Matrix"
+    const Journey = "Journey at Nabu Technologies"
     const Milestones = "From the projects we've handled to the clients we've served, our team's expertise, and our collective years of experience, here's a glimpse into our impactful journey."
 
     const impactNumbers = {

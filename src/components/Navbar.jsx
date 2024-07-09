@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import GreyMatterLogo from '../assets/brand/GreyMatterLogo.png';
+import NLogo from '../assets/brand/NLogo.png';
 import { Link } from 'react-scroll';
 import { FaXmark, FaBars } from "react-icons/fa6";
 
@@ -46,8 +47,8 @@ const Navbar = (props) => {
                 <div className='flex justify-between items-center text-base gap-8'>
                     {/* Brand GreyMatterLogo */}
                     <a href='' className='text-2xl font-semibold flex items-center space-x-3'>
-                        <img className='w-20 h-20 inline-block' src={GreyMatterLogo} />
-                        <span className='text-brandSecondary'>Grey Matrix</span>
+                        <img className='w-20 h-20 inline-block' src={NLogo} />
+                        <span className='text-[#38B6FF]'>Nabu <span className='text-brandSecondaryBlue'>Technologies</span></span>
                     </a>
 
                     {/* NavItems for Large Devices */}

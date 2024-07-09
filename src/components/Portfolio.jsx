@@ -22,7 +22,7 @@ const Portfolio = (props) => {
     const PortfolioTitle = "Showcase of Mastery";
     const PortfolioDescription = "Explore our portfolio, where creativity meets functionality, and innovation intertwines with excellence. Witness the synergy of creativity and expertise, where each project tells a story of innovation, excellence, and success.";
 
-    const Tagline = "Discover the power of Grey Matrix – where possibilities are limitless, and excellence is guaranteed."
+    const Tagline = "Discover the power of Nabu Technologies – where possibilities are limitless, and excellence is guaranteed."
 
     return (
         <div id='portfolio'>

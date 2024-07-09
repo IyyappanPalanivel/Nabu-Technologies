@@ -1,5 +1,6 @@
 import React from 'react';
-import GreyMatrixRoundedLogo from '../assets/brand/GreyMatrixRoundedLogo.png'
+import GreyMatrixRoundedLogo from '../assets/brand/GreyMatrixRoundedLogo.png';
+import NLogo from '../assets/brand/NLogo.png';
 import insta from '../assets/insta.png';
 import twitter from '../assets/twitter.png';
 
@@ -9,12 +10,12 @@ const Footer = () => {
             {/* Company Details */}
             <div className='md:w-1/3 flex flex-col gap-10'>
                 <a href='' className='text-2xl font-semibold flex items-center space-x-3'>
-                    <img className='h-10 w-10' src={GreyMatrixRoundedLogo} />
-                    <span className='text-neutralWhite '>Grey Matrix</span>
+                    <img className='h-10 w-10 rounded-xl' src={NLogo} />
+                    <span className='text-neutralWhite '>Nabu Technologies</span>
                 </a>
 
                 <div>
-                    <p className='text-neutralSilver text-sm'>Copyright © 2024 Grey Matrix.</p>
+                    <p className='text-neutralSilver text-sm'>Copyright © 2024 Nabu Technologies.</p>
                     <p className='text-neutralSilver text-sm'>All rights reserved</p>
                 </div>
 
