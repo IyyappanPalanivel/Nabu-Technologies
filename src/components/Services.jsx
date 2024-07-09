@@ -46,8 +46,8 @@ const Services = () => {
         },
         {
             id: 6,
-            title: "Consultations for Business Startups",
-            description: "Providing free consultations for aspiring entrepreneurs who need technical assistance or guidance on growing their business digitally.",
+            title: "HR Recruiting Services",
+            description: "Offering comprehensive HR recruiting services tailored for both IT and non-IT sectors, ensuring you find the right talent to drive your business forward. Our expertise spans across any roles, providing personalized support to meet your specific hiring needs.",
             image: consult
         }
     ];

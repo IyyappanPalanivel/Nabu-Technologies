@@ -25,6 +25,6 @@ Best regards,
 ${name}
 ${mobile}
 `,
-    EMAIL_RECIPIENT: 'greymatrixworks@gmail.com',
+    EMAIL_RECIPIENT: 'info@nabutechnologies.in,vjdeveloper2020@gmail.com',
   };
   
