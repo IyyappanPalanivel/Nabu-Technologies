@@ -29,7 +29,7 @@ const Footer = () => {
                     <a href="https://www.instagram.com/nabutech?igsh=MXViMTJoeGE1MWFpcA==" target="_blank" rel="noopener noreferrer">
                         <img className='h-7 w-7' src={linkedin} />
                     </a>
-                    <a href="https://wa.me/916379054904?text=Hi,%20Nabu%20Technologies" target="_blank" rel="noopener noreferrer">
+                    <a href="https://wa.me/917604958969?text=Hi,%20Nabu%20Technologies" target="_blank" rel="noopener noreferrer">
                         <img className='h-7 w-7' src={whatsapp} />
                     </a>
                 </div>
@@ -61,7 +61,7 @@ const Footer = () => {
                     <h4 className='font-semibold text-neutralWhite text-lg'>Stay up to date</h4>
                     <p className='text-neutralSilver text-xs font-bold mt-4'>📍 Address</p>
                     <div>  
-                    <p className='text-neutralSilver text-xs font-normal'>#38, Mullai Nagar,<br/> Airport, Tiruchirappalli, <br/>Tamil Nadu, India – 620007</p>
+                    <p className='text-neutralSilver text-xs font-normal'>No.25, Hirudaya COMPLEX, Renga Street,<br/>K.K. Nagar, Uddayan Patti Road,<br/>Trichy-620021, Tamil Nadu, India</p>
                     </div>
                     {/* Mail */}
                     <p className='text-neutralSilver text-xs font-bold mt-4'>📬 Mail</p>
@@ -71,7 +71,7 @@ const Footer = () => {
                     {/* Call */}
                     <p className='text-neutralSilver text-xs font-bold mt-4'>📞 Call</p>
                     <div>  
-                    <p className='text-neutralSilver text-xs font-normal'>+91-9361812260</p>
+                    <p className='text-neutralSilver text-xs font-normal'>+91-7604958969</p>
                     </div>
                 </div>
             </div>
